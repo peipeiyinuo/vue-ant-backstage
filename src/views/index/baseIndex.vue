@@ -1,11 +1,10 @@
 <template>
-  <div></div>
-  <router-view />
+  <div>基础首页</div>
 </template>
 
 <script>
 export default {
-  name: "index"
+  name: "baseIndex"
 }
 </script>
 

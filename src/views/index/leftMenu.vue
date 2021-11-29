@@ -1,11 +1,10 @@
 <template>
-  <div></div>
-  <router-view />
+  <div> 左侧菜单 </div>
 </template>
 
 <script>
 export default {
-  name: "index"
+  name: "leftMenu"
 }
 </script>
 
